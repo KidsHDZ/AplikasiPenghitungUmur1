@@ -33,5 +33,12 @@ Aplikasi ini menawarkan beberapa fitur utama:
 6. **Dukungan untuk Kustomisasi Tanggal Format**  
    Tanggal ulang tahun berikutnya ditampilkan dalam format khusus (`dd-MM-yyyy`) yang mudah dipahami dan umum digunakan di Indonesia.
 
+## Cara Menjalankan
+
+1. Clone repositori ini ke dalam komputer Anda atau unduh sebagai ZIP.
+2. Buka proyek di IDE pilihan Anda.
+3. Pastikan Anda mengatur JDK yang benar di IDE Anda.
+4. Jalankan `PenghitungUmurFrame` untuk memulai aplikasi.
+
 # Demo
 ![Demo GIF](img/Gif%20Running.gif)
