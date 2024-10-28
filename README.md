@@ -12,3 +12,4 @@ Aplikasi Penghitung Umur adalah sebuah aplikasi berbasis Java yang membantu peng
  Muhammad Ikhya - 2210010405 - Latihan 2
 
 # Demo
+![Demo GIF](img/Gif%20Running.gif)
